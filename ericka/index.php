@@ -9,5 +9,6 @@ $name="ericka";
 </head>
 <body>
     <h1>My name is : <?=$name ?></h1>
+    <h2>Ericka</h2>
 </body>
 </html>
