@@ -11,8 +11,13 @@ $new_array=array(
 );
 // we added a new  element to the array
 $new_array["website"]="www";
+echo "<pre>";
 print_r($new_array);
-echo $new_array["cartoon"];
+echo "</pre>";
+// echo $new_array["cartoon"];
+echo "<h3>my favorite cartoon is $new_array[anime]</h3>";
+// nested array
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
