@@ -1,3 +1,4 @@
+$name="ericka";
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>My name is : <?=$name ?></h1>
 </body>
 </html>
